@@ -1,4 +1,4 @@
-In this assignment let's build a **Stopwatch** by applying the concepts we have
+In this assignment let's build a **Stopwatch** 
 learned till now.
 
 ### Refer to image below:
@@ -35,7 +35,7 @@ The app must have the following functionalities
 - When the **Stop** button is clicked the Stopwatch should stop running.
 - When the **Reset** button is clicked the Stopwatch should be reset to zero.
 
-- Your task is to complete the implementation of
+- core sode files
   - `src/components/Stopwatch/index.js`.
   - `src/components/Stopwatch/index.css`.
 
@@ -77,11 +77,3 @@ The app must have the following functionalities
 
 - Roboto
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being
->   imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a
->   look at the Cheat Sheets.
