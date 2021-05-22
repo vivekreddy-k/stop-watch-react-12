@@ -1,4 +1,4 @@
-#### LIVE DEMO :- <a href="https://vibrant-liskov-e2eb3c.netlify.app/"> Stop Watch</a>
+#### LIVE DEMO :- <a href="https://vibrant-liskov-e2eb3c.netlify.app/"> Reviews </a>
 In this assignment let's build a **Stopwatch** 
 learned till now.
 
